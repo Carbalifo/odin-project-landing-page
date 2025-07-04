@@ -1,3 +1,3 @@
 # odin-project-landing-page
 
-A webpage template created by hand and from scratch based on an example image from The Odin Project. 
+This project is guided by The Odin Project. An example image showing what the webpage should look like was provided by TOP, which I recreated from scratch and by hand. No code was generated.
